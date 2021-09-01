@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hira_bux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hira_bux" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hira-amir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hira-amir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hira-amir-35ba33202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hira-amir-35ba33202" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hiraamirbux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hiraamirbux" height="30" width="40" /></a>
 </p>
 
@@ -34,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hira-amir&show_icons=true&locale=en" alt="hira-amir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hira-amir&" alt="hira-amir" /></p>
-
