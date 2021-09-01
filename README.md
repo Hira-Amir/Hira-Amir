@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **HTML,CSS and JavaScript**
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱 I’m currently learning **Full stack development**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **web development and other tech stuff**
+- 💬 Ask me about **Web development and other tech stuff**
 
 - 📫 How to reach me **hiraamirbux@gmail.com**
 
