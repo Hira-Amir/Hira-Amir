@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">, I'm Hira Amir</h1>
+<h1 align="center"> Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hira Amir</h1>
 <h3 align="center">Girl Who Code!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hira-amir&label=Profile%20views&color=0e75b6&style=flat" alt="hira-amir" /> </p>
