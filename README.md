@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about ** C++,Java,Web development and other tech stuff**
+- 💬 Ask me about **C++,Java,Web development and other tech stuff**
 
 - 📫 How to reach me **hiraamirbux@gmail.com**
 
