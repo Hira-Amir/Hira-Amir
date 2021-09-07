@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hira-amir&label=Profile%20views&color=0e75b6&style=flat" alt="hira-amir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hira-amir" alt="hira-amir" /></a> </p>
+<div><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hira-amir" alt="hira-amir" /></a> </p></div>
 
 <p align="left"> <a href="https://twitter.com/hira_bux" target="blank"><img src="https://img.shields.io/twitter/follow/hira_bux?logo=twitter&style=for-the-badge" alt="hira_bux" /></a> </p>
 
