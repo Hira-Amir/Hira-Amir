@@ -1,7 +1,7 @@
 <h1  align="center"> Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hira Amir</h1>
 <h3 align="center">Girl Who Codes!</h3>
 
-I'm a First year student pursuing Bachelors in Software Engineerig  🎓 from **Mehran University of Engineering and technology** 🏛. I'm a passionate learner who is always willing to learn and work across different technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Code👨🏻‍💻. I'm currently into Deep-Learning 🕸️ and working on my Public Speaking Skills🤓.
+I'm a First year student pursuing Bachelors in Software Engineerig  🎓 from **Mehran University of Engineering and technology** 🏛. I'm a passionate learner who is always willing to learn and work across different technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Code👨🏻‍💻. I'm currently into Deep-Learning.
 
 
 
