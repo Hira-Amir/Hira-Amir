@@ -9,7 +9,7 @@ I'm a First year student pursuing Bachelors in Software Engineerig  🎓 from **
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hira-amir&label=Profile%20views&color=0e75b6&style=flat" alt="hira-amir" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hira-Amir&theme=monokai)]
+![trophy](https://github-profile-trophy.vercel.app/?username=Hira-Amir&theme=monokai)
 
 
 
