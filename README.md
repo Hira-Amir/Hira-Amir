@@ -1,13 +1,30 @@
-<h1  align="center"> Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hira Amir</h1>
-<h3 align="center">Girl Who Codes!</h3>
+<h1  align="center"> Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hira Amir </h1>
+<img src="https://github.com/Hira-Amir/Hira-Amir/blob/main/HM.gif" >
 
-I'm a First year student pursuing Bachelors in Software Engineerig  🎓 from **Mehran University of Engineering and technology** 🏛. I'm a passionate learner who is always willing to learn and work across different technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Code👨🏻‍💻. I'm currently into Deep-Learning.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hira-Amir&color=blue" alt="hira-amir"  height="27px"/> 
+  <a href="https://github.com/Hira-Amir?tab=followers">
+    <img src="https://img.shields.io/github/followers/Hira-Amir?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/hira_bux">
+    <img src="https://img.shields.io/twitter/follow/hira_bux?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/hira-amir-35ba33202/" target="_blank">
+  <img alt="LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/hira.bux.1" target="_blank">
+  <img  alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+</p>
 
 
 
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hira-amir&label=Profile%20views&color=0e75b6&style=flat" alt="hira-amir" /> </p>
+
+
+
+
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hira-Amir&theme=monokai)
 
@@ -60,8 +77,10 @@ I'm a First year student pursuing Bachelors in Software Engineerig  🎓 from **
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Hira-Amir&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hira-Amir&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Hira-Amir/github-readme-stats)
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hira-Amir&show_icons=true&theme=blue-green&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hira-Amir&layout=compact&langs_count=8&theme=blue-green"/>
+<!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hira-Amir&show_icons=true&theme=blue-green&count_private=true"/> -->
+<!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hira-Amir&layout=compact&langs_count=8&theme=blue-green"/> -->
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
