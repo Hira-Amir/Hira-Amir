@@ -1,5 +1,16 @@
-<h1  align="center"> Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hira Amir </h1>
-<img src="https://github.com/Hira-Amir/Hira-Amir/blob/main/HM.gif" >
+<h3 align="center">
+  Welcome to Hira's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=22&color=56B3FF&center=true&lines=Frontend+Web+Developer+;Experienced+UI%2FUX+Designer;Always+Learning+new+Stuff"></a>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hira-Amir&color=blue" alt="hira-amir"  height="27px"/> 
@@ -23,21 +34,18 @@
 
 <div align="center">
 <p>
-  🔭 I’m currently working on <b>HTML,CSS and JavaScript</b>
+  🔭 I’m currently working on my <b>Frontend Skills</b>
 
-🌱 I’m currently learning <b>Full stack development</b>
+🌱 I’m currently learning <b>Full Stack Development</b>
 
-👯 I’m looking to collaborate on <b>Open source projects</b>
+👯 I’m looking to collaborate on <b>Open Source Projects</b>
 
-💬 Ask me about <b>C++,Java,Web development and other tech stuff</b>
+💬 Ask me about <b>C++,Java,Web development and UI/UX Designing</b>
 
 📫 How to reach me <b>hiraamirbux@gmail.com</b>
 
 ⚡ Fun fact <b>I love to learn new things, and I embrace my inner nerd🤓</b>
 </p></div>
-
-<br>
-
 
 <div align="center" >
 <p > 
@@ -89,7 +97,10 @@
   <a href="#" target="_blank"> 
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30px"/>
   </a>
- 
+  &emsp;
+  <a href="#" target="_blank"> 
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-100000?style=for-the-badge&logo=figma&logoColor=blue" height="30px"/>
+  </a>
 </p>
 </div>
 
